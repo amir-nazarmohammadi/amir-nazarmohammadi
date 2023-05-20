@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I am I am a happy freelancerr<br><br>🌱 I’m currently learning django framework<br><br>📫 How to reach me: amir.nazar13777@gmail.com<br><br>⚡ Fun fact : Programming is nothing to laugh at
+🔭I am a happy freelancerr<br><br>🌱 I’m currently learning django framework<br><br>📫 How to reach me: amir.nazar13777@gmail.com<br><br>⚡ Fun fact : Programming is nothing to laugh at
 
 
 ## 🌐 Socials:
